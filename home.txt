@@ -1,58 +1,62 @@
-We’re Web Guru DC
-Your local website design agency, innovation starts with us
+# Raven Newport
+# 29 March 2020
+# edited, with comments
 
-We craft unique and meaningful, experiences that will sublime your business. We are specialized team of programmers and web developers in PHP Laravel. 
+We’re Web Guru DC
+Your local website design agency: innovation starts with us
+
+We craft unique and meaningful user experiences that will sublime your business. We are a team of programmers and web developers specializing in PHP Laravel. 
+# would not suggest using 'sublime' here
 
 Website Design
-Embracing today’s web technology to integrated solutions build valuable website design.
+Embracing modern web technologies to integrate valuable website solutions.
 
 Branding
-Create direct connection with your audience with relevant, engaging and inspirational branding
+Directly connect with your audience via relevant, engaging, and inspirational branding.
 
 Marketing
-Explore our digital marketing solutions for your business to level up your game.
+Level up your game with our digital marketing solutions for business.
 
 Ecommerce Solution
-Optimize your e-commerce solutions for brick-mortar stores, small-mid size business, large corporation.
+Optimize your e-commerce solutions for brick-and-mortar stores, small to mid-sized business, or large corporations.
 
-Let's create memorable digital experience
-We offer customized integrated solutions that our creative and talented team can help you build a responsive website design.
-Perfect idea deserves an amazing website design. We make magic happen with our award winning custom designed websites using Vue Js as frontend framework and Laravel as backend framework with mobile first responsive code for your existing website just for your business. 
+Let's create memorable digital experiences.
+We offer customized integrated solutions. Let our talented and creative team design a responsive website.
+A perfect idea deserves an amazing website. We make magic happen with our award-winning custom websites, using Vue.js for the frontend and Laravel for the backend. We can create mobile-first responsive code to rebuild your existing website. 
 
-Our crafted expertise.
-We strive to craft winning solutions for any project. We excel at listening, and then acting on your needs, to deliver a successful project outcome. 
+Crafted Expertise.
+We strive to craft winning solutions for every project. We excel at listening, then acting on your needs, to deliver a successful project outcome. 
 
-Our development process.
-With collaboration at our core, we are ready to take on any challenge. We strive to craft winning solutions for any project. We excel at listening, and then acting on your needs, to deliver a successful project outcome.
+Our Development Process
+With collaboration at our core, we are ready to take on any challenge.
 
 Research & Analysis
-Our experts plan and start your project by conducting initial interview and engaging stakeholders in the process. We carefully gather the need, document and review the initial requirements using brainstorming, mind-mapping, interviews, surveys, and prototyping.
+Our experts begin each project by conducting initial interviews and engaging stakeholders. After carefully gathering needs, we document, brainstorm, and review initial requirements through mind-maps, interviews, surveys, and prototypes.
 
 Planning
-We carefully plan the plan by detailing the entire project and outlining each and every step to ensure success and satisfaction, including structure, system's functionality, user interface, determining roles & permissions, security and performance.
+We carefully detail the entire project and outline every step to ensure success and satisfaction. We consider structure, system functionality, user interfaces, roles & permissions, security, and performance.
 
 Designing
-Our expert and industry leading design staff works to collaboratively design and create the prototypes, functional work flow structures, diagrams to depict the visual representation of the final product, and create high-fidelity prototypes..
+Our industry-leading design experts create high-fidelity prototypes, functional workflow structures, diagrams, and visual representations.
 
 Testing
-We go above and beyond to ensure end to end testing solutions, including functional, unit and integration testing for entire system. Our experts use the bottom up approach on testing to ensure purpleundancy and provide a robust and valuable product.
+We go above and beyond to ensure quality end-to-end testing for the entire system, including functional, unit, and integration testing. Our experts use a bottom-up approach to ensure purpleundancy to provide a product which is both robust and valuable.
+# what is purpleundancy?
 
 Launching
-We take pride in our finished work and at this stage we can almost guarantee that you are on your way to start a wonderful new journey with our hand-crafted product. An awesome design custom made for your business.
+We take pride in our finished work! At this stage we can almost guarantee that you are on your way to start a wonderful new journey with our hand-crafted product: an awesome design custom-made for your business.
 
 Sign up for our newsletter
-We love bragging about our work. It's a great idea to keep in touch via a weekly newsletter. We can be reached at (202) 798-0932 anytime to get the conversation started. 
-We care about the protection of your data. Read our Privacy Policy. 
+We love bragging about our work! Keep in touch with our weekly newsletter. Reach us at (202) 798-0932 anytime to get the conversation started. 
+
+We care about protecting your data. Read our Privacy Policy.
 
 Our Crafting Tools
-We are proud to have some of the most well-known and respected crafting technologies and we love to help start-ups and new brands. We aren’t just talk. We are in the game, in a big way, and are ready to partner with you. Our core web development solutions include Custom Web Applications, Custom Enterprise Database Development, User Experience Design and more. 
-Design Stack
-Integration 
+We are proud to understand the most well-known and respected technologies. We love to help start-ups and new brands. We aren’t just talk. We are in the game–in a big way–ready to partner with you. Our core web development solutions include Custom Web Applications, Custom Enterprise Database Development, User Experience Design, and more.
 
-What Client's are saying about us.
-
-We listen to your feedback to improve our services. 
+What our clients are saying about us:
+We listen to your feedback to improve our service. 
 
 Nash Baluch
 Star Limousine Service, Inc
-I have found Web Guru DC to be an amazing development company under the capeable management team. This company is equipped with latest tools and technology to provide excellent services for websites and email marketing.
+I have found Web Guru DC to be an amazing development company under a capable management team. This company is equipped with latest tools and technology to provide excellent services for websites and email marketing.
